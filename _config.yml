@@ -118,3 +118,5 @@ exclude:
   - LICENSE
   - README.md
   - vendor
+
+theme: jekyll-theme-cayman
