@@ -10,5 +10,5 @@ categories: jekyll update
 希望以此为契机，开始认真生活吧。
 
 
-Heavenly and got some fun
+Heavenly and got some fun \\
 Many times as I'm for you
