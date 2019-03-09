@@ -8,3 +8,7 @@ categories: jekyll update
 结论是决定找个地方记录下每天学到的东西w 顺便写博客也是很有趣的事情。
 
 希望以此为契机，开始认真生活吧。
+
+
+Heavenly and got some fun
+Many times as I'm for you
