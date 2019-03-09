@@ -9,7 +9,7 @@ title: Logic's Blog (Temporary)
 description: 毎日に元気いっぱい出して！
 avatar: /assets/img/natsuki.jpeg
 # favicon: /favicon.ico
-favicon: /assets/img/__ogp.png
+favicon: /assets/img/natsu.jpeg
 # language: ja
 language: en
 
@@ -78,7 +78,7 @@ share_buttons:
   facebook: false # needs ogp.fb.app_id
   hatena: false
 ogp:
-  image_url: //zouyuesong.github.io/blogNDM/assets/img/__ogp.png
+  image_url: //zouyuesong.github.io/blogNDM/assets/img/ogp.png
   fb:
     admin: # facebook admin id
     app_id: # facebook application id
