@@ -5,7 +5,7 @@
 # baseurl: ""
 url: http://ttskch.github.io
 baseurl: /jekyll-ttskch-theme
-title: Your name
+title: Logic's Blog (Temporary)
 description: Some descriptions of yourself.
 avatar: /assets/img/ogp.png
 # favicon: /favicon.ico
@@ -19,9 +19,9 @@ language: en
 icons:
   rss: true
   email:
-  github: ttskch
+  github: zouyuesong
   bitbucket:
-  twitter: ttskch
+  twitter: Logic_Z_
   facebook:
   google_plus:
   tumblr:
